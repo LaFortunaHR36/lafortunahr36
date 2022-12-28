@@ -1,6 +1,6 @@
 # La Fortuna - Hallberg Rassy 36 MKII
 
-![LaFortuna](lafortuna.jpg)
+![LaFortuna](images/lafortuna.jpg)
 
 
 Under construction
