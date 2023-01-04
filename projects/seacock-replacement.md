@@ -11,20 +11,20 @@ I have never done this job before so this document is the result of gathering as
 This is the current distribution of seacocks on my HR 36 with the thru-hull sizes. Each circle represents a seacock, and the shape within the circle represents the type of skin-fitting, which can be *straight*, or *90% L shape*. The *Y shape* means that right after the valve there is a *Y hole tails*. The thru-hull in those Y seacocks are really 90 degree fitting connected to a valve and then a Y hole tail.
 ![seacocks-distribution](../images/thruhulls.png)
 
-| Seacock | Description | Current size | New size   | Long skin-fitting ? |
-| --- | ----------- | ---- |----| --- |
-| 1 | Water intake toilet | 90degree 1/2'' | 3/4 '' |  required |
-| 2 | Outlet toilet | 90degree 1/4'' | 1 1/4'' |  |
-| 3 | Outlet wash basin | straight 3/4'' | 3/4 '' |  |
-| 4 | Outlet shower  | 90degree 1/2'' | 3/4 '' |  |
-| 5 | Outlet galley sink  | straight 1 1/4'' | 1 1/4 '' |  |
-| 6 | Port deck drain | 90degree+Y 1 1/4'' | 1 1/4 '' |  |
-| 7 | Seawater intake engine | straight 1 1/4'' | 1 1/4 '' | required |
-| 8 | Cockpit drain | straight 1 1/4'' | 1 1/4 '' |  required |
-| 9 | Cockpit drain | straight 1 1/4'' | 1 1/4 '' |  required |
-| 10 | Starboard deck drain | 90degree+Y 1 1/4'' | 1 1/4 '' |  |
-| 11 | Gas box drain | 90degree 1 1/4'' | 1 1/4 '' |  |
-| 12 | Outlet bilge pump | 90degree 3/4'' | 3/4 '' |  |
+| Seacock | Description | Current size | New size   | Long skin-fitting ? | Hull thickness |
+| --- | ----------- | ---- |----| --- | --- |
+| 1 | Water intake toilet | 90degree 1/2'' | 3/4 '' |  required | |
+| 2 | Outlet toilet | 90degree 1/4'' | 1 1/4'' |  | |
+| 3 | Outlet wash basin | straight 3/4'' | 3/4 '' |  | |
+| 4 | Outlet shower  | 90degree 1/2'' | 3/4 '' |  | |
+| 5 | Outlet galley sink  | straight 1 1/4'' | 1 1/4 '' |  | |
+| 6 | Port deck drain | 90degree+Y 1 1/4'' | 1 1/4 '' |  | |
+| 7 | Seawater intake engine | straight 1 1/4'' | 1 1/4 '' | required | |
+| 8 | Cockpit drain | straight 1 1/4'' | 1 1/4 '' |  required | |
+| 9 | Cockpit drain | straight 1 1/4'' | 1 1/4 '' |  required | |
+| 10 | Starboard deck drain | 90degree+Y 1 1/4'' | 1 1/4 '' |  | |
+| 11 | Gas box drain | 90degree 1 1/4'' | 1 1/4 '' |  | |
+| 12 | Outlet bilge pump | 90degree 3/4'' | 3/4 '' |  | |
 
 > 11 and 12 are above water line.
 
