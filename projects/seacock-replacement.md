@@ -45,6 +45,7 @@ This is the current distribution of seacocks on my HR 36 with the thru-hull size
 - valve of various sizes
 - hose tail
 - innox clamps (should we had to replace old ones)
+- epoxy resin + hardener
 
 ## Existing parts
 
@@ -75,6 +76,8 @@ Here is [a video](https://youtu.be/Tysi4ScnZ_w), from SY Fryd, that shows how it
 To remove the old through-hull and make the hole bigger there are two techniques:
 - Use a wood bung and a hole saw with the outer diameter of the new through-hull. This technique is explained by [TruDesign](https://trudesignplastics-com.s3.amazonaws.com/questions/documents/12/0fab29c9f7d8654c8189eac3a69e139b.pdf).  
 - Use two hole saw. One with the outer diameter of the new through-hull and another one of the same diameter of the inner diameter of the old through-hull which serves a guide.
+
+I have read that for monolithic hulls, 1mm wider than the OD of the through-hull is sufficient. For sandwich-type hulls, 2mm to 3mm wider because we have to epoxy the inner surface of the hole.
 
 ### 2. Prepare hole for the new thru-hull
 
@@ -119,7 +122,7 @@ Now we have the thru-hull of the right length.
 
 Note: I have read that it is recommended to sand the thru-hull for better bonding of the sealant/epoxy.
 
-1. Put masking tape on the thread where the valve screws in. This is just in case sealing/epoxy gets there. We should apply some thread sealant to the threads but try to leave 1/4'' without any sealant to avoid any sealant from getting into the valve itself and blocking it.
+1. Put masking tape on the thread where the valve screws in. Or the finger of a latex globe. This is just in case sealing/epoxy gets there. We should apply some thread sealant to the threads but try to leave 1/4'' without any sealant to avoid any sealant from getting into the valve itself and blocking it.
 2. Apply sealant to the inside of the flange and the thread that will stay in between the hull.
 3. Insert the thru-hull across the hole in the hull and rotate it to spread the sealant on all the flange's surface and avoid air bubbles. Leave the through-hull right on the mark on the hull we did previously
 4. Go inside and fill up any void with more sealant.
@@ -128,8 +131,8 @@ Note: I have read that it is recommended to sand the thru-hull for better bondin
 
 6. Once it has cured, remove the masking tape on the thread where we are going to screw the valve
 7. Tight the nut a bit more (15ft lb). How much is that? Aprox almost half a turn?
-8. Apply thread-selant of your preference, e.g. loctite 55, across the threads not following them
-9. Screw the valve in and the hose adapter and let it cure before inserting the hoses
+8. Apply thread-selant of your preference, e.g. loctite 55 (or 5331 or PTFE), across the threads not following them
+9. Screw the valve in and the hose adapter and let it cure (typically 24 hours) before inserting the hoses
 
 
 Don't you prefer to remove the excess of sealant while fresh rather than cut it away when dry with a knife or cutter?
