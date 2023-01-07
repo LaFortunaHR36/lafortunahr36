@@ -6,12 +6,12 @@
 
 ## Vetus 185mm 95 kgf
 
-Propeller: Synthetic to avoid corrosion
-Power: 5,7 kW
-Current consumption: 650 A
-Max continuous usage time: 3 minutes
-Gear Grease: 0,03 liters outboard gear oil SAE80W-90 o EP 90
-Fuse: ‘ATO’ 5 A
+- Propeller: Synthetic to avoid corrosion
+- Power: 5,7 kW
+- Current consumption: 650 A
+- Max continuous usage time: 3 minutes
+- Gear Grease: 0,03 liters outboard gear oil SAE80W-90 o EP 90
+- Fuse: ‘ATO’ 5 A
 
 ## Installation
 
