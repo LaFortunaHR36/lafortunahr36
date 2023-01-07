@@ -5,6 +5,14 @@
 
 Under construction
 
+## Annual Maintenance
+
+## External
+
+| Item | Description |
+| --- | ----------- |
+| Bow Truster | [Electrical checks and anodes](jobs/service-bow-thruster.md) |
+
 ## Projects
 
 [Seacock replacement](projects/seacock-replacement.md)
