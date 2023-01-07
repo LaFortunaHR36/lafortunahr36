@@ -1,8 +1,8 @@
 # Service Bow Truster Vetus BOW9512D
 
-![bow truster](images/bow_truster_1.jpg)
-![bow truster](images/bow_truster_2.jpg)
-![bow truster](images/bow_truster_3.jpg)
+![bow truster](../images/bow_truster_1.JPG)
+![bow truster](../images/bow_truster_2.JPG)
+![bow truster](../images/bow_truster_3.JPG)
 
 ## Vetus 185mm 95 kgf
 
@@ -34,7 +34,7 @@ Fuse: ‘ATO’ 5 A
 Electrical parts (such as bolts and nuts) may come loose as a result of fluctuations in temperature.
 
 1. Open the black box
-![bow truster](images/bow_truster_4.jpg)
+![bow truster](../images/bow_truster_4.png)
 
 2. Check battery voltage.
 
@@ -62,7 +62,7 @@ After prolonged use, brushes accumulates a thick sticky dust and may stop workin
 1. Unscrew the two small bolts on the top of the body and remove the lid.
 2. Pull the spring back with some pliers on each brush. There are 4.
 
-  ![bow truster](images/bow_truster_5.jpg)
+  ![bow truster](../images/bow_truster_5.png)
 
 3. Take brush off (it is still attached to 2 cables)
 4. Clean the brushes (1), the holders (2) and the commutator (3). (Blow away
@@ -78,7 +78,7 @@ the dust coming off the brushes)
 Anode part number: SET0150
 
 1. Unscrew two (PH2) screws and the two plastic pieces
-  ![bow truster](images/bow_truster_6.jpg)
+  ![bow truster](../images/bow_truster_6.png)
 2. Push the propeller from the other side if we cannot pull it off.
 3. The anode is behind the propeller.
 4. Unscrew the two (M5) allen bolts.
