@@ -17,15 +17,27 @@ Under construction
 | First aid kit | Replace expired items |
 | Extinguisher | Take to service / Replace if required |
 | Life raft | Annual service  |
+| Grab Bag | Replace batteries and expired items |
+| VHF Radio | Replace batteries if required |
 
 ### External
 
 | Item | Description |
 | --- | ----------- |
 | Bow Truster | [Electrical checks and anodes](jobs/service-bow-thruster.md) |
-| Windlass | |
+| Windlass | Clean, Grease (Marine Lithium White) and check for corrosion and replace (pages.15-20)|
 | Hull anodes | Check and replace if necessary |
 | Engine service |  |
+| Roller Furlex 300S  | Pg.21,22,43,44,46,47,48 |
+| Anchor chain | Check chain, and clean w/fresh water |
+| MaxProp propeller | Clean, Grease & replace anodes |
+| Shaft | Clean and replace anodes |
+
+### Interior
+
+| Item | Description |
+| --- | ----------- |
+| Shower pump | Clean filter, check/grease impeller |
 
 
 ### Just after splash and leaving yard dock
