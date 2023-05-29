@@ -11,15 +11,16 @@ I have never done this job before so this document is the result of gathering as
 This is the current distribution of seacocks on my HR 36 with the thru-hull sizes. Each circle represents a seacock, and the shape within the circle represents the type of skin-fitting, which can be *straight*, or *90% L shape*. The *Y shape* means that right after the valve there is a *Y hole tails*. The thru-hull in those Y seacocks are really 90 degree fitting connected to a valve and then a Y hole tail.
 ![seacocks-distribution](../images/thruhulls.png)
 
+
 | Seacock | Description | Current size | New size   | Long skin-fitting ? | Hull thickness |
 | --- | ----------- | ---- |----| --- | --- |
-| 1 | Water intake toilet | 90degree 1/2'' | 3/4 '' |  required | |
+| 1 | Water intake toilet | 90degree 1/2'' | 3/4 '' |  required | 3 cm |
 | 2 | Outlet toilet | 90degree 1/4'' | 1 1/4'' |  | |
-| 3 | Outlet wash basin | straight 3/4'' | 3/4 '' |  | |
+| 3 | Outlet wash basin | straight 3/4'' | 3/4 '' |  | 3 cm |
 | 4 | Outlet shower  | 90degree 1/2'' | 3/4 '' |  | |
 | 5 | Outlet galley sink  | straight 1 1/4'' | 1 1/4 '' |  | |
 | 6 | Port deck drain | 90degree+Y 1 1/4'' | 1 1/4 '' |  | |
-| 7 | Seawater intake engine | straight 1 1/4'' | 1 1/4 '' | required | |
+| 7 | Seawater intake engine | straight 1 1/4'' | 1 1/4 '' | required | 3 cm |
 | 8 | Cockpit drain | straight 1 1/4'' | 1 1/4 '' |  required | |
 | 9 | Cockpit drain | straight 1 1/4'' | 1 1/4 '' |  required | |
 | 10 | Starboard deck drain | 90degree+Y 1 1/4'' | 1 1/4 '' |  | |
@@ -41,7 +42,7 @@ This is the current distribution of seacocks on my HR 36 with the thru-hull size
 
 ## Parts to purchase
 
-- skin-fittings standard size and long size
+- skin-fittings long size
 - valve of various sizes
 - hose tail
 - innox clamps (should we had to replace old ones)
