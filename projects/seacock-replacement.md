@@ -66,6 +66,7 @@ If I want to replace the old through-hull with a new one with the same diameter/
 
 Use a step drill from outside of the boat to remove the flange. It also heats up the through-hull a little bit which softens the original sealant.
 > Thanks Juha for sharing [this video](https://www.facebook.com/reel/876448336934711)
+Or use an electric saw and make cuts along the thru-hull and then user a screw-driver and a hammer to lightly hammer on the edge of the thru-hull. The thru-hulls in my HR 36 were 20 years old and they were really glued to the hull. 
 
 Once the flange is gone and also part of the through-hull, go inside the boat and with bare hands, rotate the valve+through-hull combo to remove it entirely.
 
