@@ -83,7 +83,7 @@ Anode part number: SET0150
 3. The anode is behind the propeller.
 4. Unscrew the two (M5) allen bolts.
 5. Remove the anode. Ensure it has eaten away otherwise there is no proper contact between the shaft, the anode and the other parts of the propeller.
-6. Grease the axes with Outboard Gear Grease.
+6. Grease the axes with Outboard Gear Grease (Lithium grease NGI 2).
 7. Replace the zinc anode if it is less than half the original size.
 8. Screw with 2Nm and apply thread lock (Loctite 243)
 9. Insert the Propeller

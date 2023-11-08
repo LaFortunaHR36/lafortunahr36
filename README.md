@@ -51,3 +51,4 @@ Under construction
 ## Projects
 
 [Seacock replacement](projects/seacock-replacement.md)
+[Replace broke bolt from quadrant](projects/quadrant-auto-pilot.md)
