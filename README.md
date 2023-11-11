@@ -50,10 +50,10 @@ Under construction
 
 ## Maintenance jobs and repairs
 
-[Service Bow-Thruster](jobs/service-bow-thruster.md)
-[Replace broke bolt from quadrant](jobs/quadrant-auto-pilot.md)
+- [Service Bow-Thruster](jobs/service-bow-thruster.md)
+- [Replace broke bolt from quadrant](jobs/quadrant-auto-pilot.md)
 
 ## Projects
 
-[Rudder seals and bearings replacement](projects/rudder-bearings-seals-replacement.md)
-[Seacock replacement](projects/seacock-replacement.md)
+- [Rudder seals and bearings replacement](projects/rudder-bearings-seals-replacement.md)
+- [Seacock replacement](projects/seacock-replacement.md)
