@@ -4,6 +4,7 @@ The quadrant has a piece of metal attached to it where the autopilot ram is atta
 7mm and 30mm long (304 stainless steal) with a locking washer and nut. In the photo below you can see the missing bolt.
 
 ![Quadrant with missing bolt](../images/quadrant-auto-pilot.jpg)
+![Autopilot ram linkage](../images/ram-autopilot-linkage.jpg)
 
 Every time I return from a passage and before I go home, I check engine, rudder post and thru-hulls. I did not see anything odd.
 
