@@ -14,7 +14,13 @@ However, when I returned to the boat this week I found a loose bolt next to the 
 
 Maybe the bolt broke while sailing but it was stuck in a position where i could not see it. The fact of the matter is that when I returned to the boat 3 weeks later, I saw bolt at the front of the rudder post. And the nut was still sitting in its position.
 
-**Conclusion**: Have 3 spare bolts with its nuts because they will break. One of the two bolts is longer than the remaining one and the one that broke. Which means, someone must have replaced it. La Fortuna is from 1995, so it has over 28 years old.
+**Why did it break?**
+- I noticed a shiny inner surface where the bolt goes thru which could mean that the
+bolt was loose and grinding the surface... maybe
+- It was too old. One of the three bolts is longer than the other. Definitely someone changed it. La Fortuna is from 1995, so it has over 28 years old.
+
+**Conclusion**:
+- Have 3 spare bolts with its nuts because they will break. 
 
 **More about spares in the steering system**:
 - Have a spare wire (purchased from HR Parts)
