@@ -11,23 +11,27 @@ The rudder in our HR 36 is suspended on three bearings from top to bottom:
   I guess is the result of salt water draining out the grease in the lower bearings
   solidifying over time.
 
-  **Question:** There is a screwed-in bolt in the thru-hull bearing housing.
+  **Question:** There is a screwed-in bolt in the thru-hull bearing housing (last photo above).
   Is this the *leak indicator hole* thru which salt water flows out when the
   seals have failed/worn out?
 
 
 - skeg bearings (outside the boat)
 
-Here is a sketch diagram of the rudder post, skeg and bearings.
+Here is a sketch diagram of the rudder post, skeg and bearings:
+
 ![Rudder](../images/rudder-post-skeg.png)
 
 Location of the bearings:
+
 ![Rudder bearings](../images/rudder-bearings.png)
 
-Closer diagram of lower and upper bearings
+Closer diagram of lower and upper bearings:
+
 ![Lower and Upper Rudder bearings](../images/lower-upper-bearings-assembly.png)
 
-Rudder Seals
+Rudder Seals:
+
 ![Rudder seals](../images/SimmerBearingRudder.jpeg)
 
 Note: At least this HR 36 MKII has no greasing nipples in any of the bearings. I have read some newer models and probably larger boat lengths do have those nipples.
