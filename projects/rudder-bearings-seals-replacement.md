@@ -57,7 +57,7 @@ The credits for the steps enumerated below goes to Hallberg Rassy and to several
 
 4. Unbolt and remove the steering cables, steering quadrant and quadrant key. You may need to grip the key firmly with locking pliers and hit the locking pliers with a hammer to get it loose.
 
-![Cuadrant key. Credit to S/V Endeavour](../images/quadrant-key.jpg)
+![Cuadrant key. Credit to S/V Endeavour](../images/cuadrant-key.jpg)
 
 5. Unbolt and remove the autopilot-drive arm.
 
