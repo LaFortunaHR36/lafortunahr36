@@ -55,4 +55,5 @@ Under construction
 
 ## Projects
 
+[Rudder seals and bearings replacement](projects/rudder-bearings-seals-replacement.md)
 [Seacock replacement](projects/seacock-replacement.md)
