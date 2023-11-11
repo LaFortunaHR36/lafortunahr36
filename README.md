@@ -48,7 +48,11 @@ Under construction
 | Stern gland | Grease and vent  |
 
 
+## Maintenance jobs and repairs
+
+[Service Bow-Thruster](jobs/service-bow-thruster.md)
+[Replace broke bolt from quadrant](jobs/quadrant-auto-pilot.md)
+
 ## Projects
 
 [Seacock replacement](projects/seacock-replacement.md)
-[Replace broke bolt from quadrant](projects/quadrant-auto-pilot.md)
