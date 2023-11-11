@@ -7,17 +7,21 @@ The rudder in our HR 36 is suspended on three bearings from top to bottom:
 ![Lower bearing](../images/lower-bearing-la-fortuna.jpg)
 ![Lower bearing](../images/lower-bearing-2-la-fortuna.jpg)
 
-  In between the lower bearing and the hull there is a small bag. Through this
-  gap I have noticed a kind of brown-greasy dust and small particles which
+  In between the lower bearing and the thru-hull bearing housing there is a small gap. Through this gap, I have noticed a kind of brown-greasy dust and small particles which
   I guess is the result of salt water draining out the grease in the lower bearings
-  solidifying over time
-  
+  solidifying over time.
+
+  **Question:** There is a screwed-in bolt in the thru-hull bearing housing.
+  Is this the *leak indicator hole* thru which salt water flows out when the
+  seals have failed/worn out?
+
+
 - skeg bearings (outside the boat)
 
 Here is a sketch diagram of the rudder post, skeg and bearings.
 ![Rudder](../images/rudder-post-skeg.png)
 
-A photos of the location of the bearings
+Location of the bearings:
 ![Rudder bearings](../images/rudder-bearings.png)
 
 Closer diagram of lower and upper bearings
