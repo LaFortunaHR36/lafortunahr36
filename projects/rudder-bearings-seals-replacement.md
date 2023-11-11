@@ -47,7 +47,8 @@ Procedure to replace the seals based on documents from Hallberg Rassy and groups
 1. Remove the plastic lid on the top end of the rudder stock.
 ![Top end of rudder stock](../images/0.jpg)
 
-2. Screw ![Credit to S/V Endeavour](../images/1.jpg) an M10 eyebolt on the rudder stock and attach it to a gantry with a turnbuckle.
+2. Screw an M10 eyebolt on the rudder stock and attach it to a gantry with a turnbuckle.
+![Credit to S/V Endeavour](../images/1.jpg)
 ![Credit to S/V Endeavour](../images/gantry.jpg)
 
 3. Also support the rudder from below. **Always keep one support at all times**
