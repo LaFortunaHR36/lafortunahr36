@@ -42,7 +42,7 @@ At this stage, we know the lower seal is compromise because we have seen some br
 In the groups.io/Hallberg-Rassy-Sailing forum someone mentions that if the rudder is not stiff, the bearings are still in good shape. In my case, I have noticed the rudder is getting stiffer. So, I suspect the bearings are also somewhat affected.
 
 
-Procedure to replace the seals based on documents from Hallberg Rassy and groups.io/Hallberg-Rassy-Sailing forum:
+The credits for the steps enumerated below goes to Hallberg Rassy and to several people in groups.io/Hallberg-Rassy-Sailing forum who have contributed their experiences in particular Dennis Patti from s/v Endeavour HR36:
 
 1. Remove the plastic lid on the top end of the rudder stock.
 ![Top end of rudder stock](../images/0.jpg)
@@ -51,10 +51,10 @@ Procedure to replace the seals based on documents from Hallberg Rassy and groups
 ![Credit to S/V Endeavour](../images/1.jpg)
 ![Credit to S/V Endeavour](../images/gantry.jpg)
 
-3. Also support the rudder from below. **Always keep one support at all times**
+3. Also support the rudder from below. **Always keep one support at all times**. For instance, if you have access to a car jack or a small hydraulic jack the better.
 
 4. Unbolt and remove the steering cables, steering quadrant and quadrant key. You may need to grip the key firmly with locking pliers and hit the locking pliers with a hammer to get it loose.
-![Cuadrant key. Credit to S/V Endeavour](../images/2.jpg)
+![Cuadrant key. Credit to S/V Endeavour](../images/quadrant-key.jpg)
 
 5. Unbolt and remove the autopilot-drive arm.
 
