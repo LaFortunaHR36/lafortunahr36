@@ -16,7 +16,7 @@ The rudder in our HR 36 is suspended on three bearings from top to bottom:
   seals have failed/worn out?
 
 
-- skeg bearings (outside the boat)
+- Skeg bearings (outside the boat)
 
 Here is a sketch diagram of the rudder post, skeg and bearings:
 
@@ -34,21 +34,19 @@ Rudder Seals:
 
 ![Rudder seals](../images/SimmerBearingRudder.jpeg)
 
-Note: At least this HR 36 MKII has no greasing nipples in any of the bearings. I have read some newer models and probably larger boat lengths do have those nipples.
-
 # Procedure to replace lower & upper bearings and seals
 
 This is without removing the entire rudder and/or the skeg. However, this operation has to be done outside of the water because we have to support the rudder by placing something to hold the lower tip of the rudder.
 
-At this stage, we know the lower seal is compromise because we have seen some brownish water coming out of the drainage tube. This means that, at least, we have to change that seal. We do not if the upper seal is still good and we can keep it or replace it. Also, we do not know if the bearings, lower and/or upper, are affected. Everyone advices to replace them anyway given the hassle of the operation.
+At this stage, we know the lower seal is compromise because we have seen some brownish water coming out of the drainage tube. This means that, at least, we have to change that seal. At this stage, we are better of replace the two seals, not just one. We do not know if the bearings, lower and/or upper, are affected. Everyone advices to replace them anyway given the hassle of the operation.
 In the groups.io/Hallberg-Rassy-Sailing forum some mentions that if the rudder is not stiff, the bearings are still in good shape. In my case, I have noticed the rudder is getting stiffer to turn within a period of 2-3 months of sailing almost uninterruptedly. So, I suspect the bearings are also somewhat affected.
 
 
 
-1. Remove the plastic lid on the top end of the rudderstock.
+1. Remove the plastic lid on the top end of the rudder stock.
 ![Top end of rudderstock](../images/0.jpg)
 
-2. Screw ![Credit to S/V Endeavour](../images/1.jpg) an M10 eyebolt on the rudderstock and attach it to a gantry with a turnbuckle.
+2. Screw ![Credit to S/V Endeavour](../images/1.jpg) an M10 eyebolt on the rudder stock and attach it to a gantry with a turnbuckle.
 ![Credit to S/V Endeavour](../images/gantry.jpg)
 
 3. Also support the rudder from below. **Always keep one support at all times**
