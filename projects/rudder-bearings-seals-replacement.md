@@ -45,15 +45,18 @@ In the groups.io/Hallberg-Rassy-Sailing forum someone mentions that if the rudde
 The credits for the steps enumerated below goes to Hallberg Rassy and to several people in groups.io/Hallberg-Rassy-Sailing forum who have contributed their experiences in particular Dennis Patti from s/v Endeavour HR36:
 
 1. Remove the plastic lid on the top end of the rudder stock.
+
 ![Top end of rudder stock](../images/0.jpg)
 
 2. Screw an M10 eyebolt on the rudder stock and attach it to a gantry with a turnbuckle.
+
 ![Credit to S/V Endeavour](../images/1.jpg)
 ![Credit to S/V Endeavour](../images/gantry.jpg)
 
 3. Also support the rudder from below. **Always keep one support at all times**. For instance, if you have access to a car jack or a small hydraulic jack the better.
 
 4. Unbolt and remove the steering cables, steering quadrant and quadrant key. You may need to grip the key firmly with locking pliers and hit the locking pliers with a hammer to get it loose.
+
 ![Cuadrant key. Credit to S/V Endeavour](../images/quadrant-key.jpg)
 
 5. Unbolt and remove the autopilot-drive arm.
@@ -61,11 +64,13 @@ The credits for the steps enumerated below goes to Hallberg Rassy and to several
 6. Mark the position and release the Rudder Locking Ring, allowing both the Rudder Locking Ring and Rudder Upper Bearing, to be lowered. Note that the bolts have hex heads — the nuts are a locking mechanism.
 
 7. Mark the radial position, unbolt and remove the Rudder Bearing Housing Upper. Remove both Rudder Upper Bearing and Rudder Locking Ring Bronze.
+
 ![Credit to S/V Endeavour](../images/1-1.jpg)
 ![Credit to S/V Endeavour](../images/2-1.jpg)
 
 8. Mark the position of the lower locking ring and release it. This ring holds
 the rudder in the right position.
+
 ![Credit to S/V Endeavour](../images/2.jpg)
 
 9. Gently lower the rudder (maximum.15mm) using the turnbuckle, resting it on Rudder Skeg Bearing and also support the rudder against the ground (as already mention in above position No. 3).
