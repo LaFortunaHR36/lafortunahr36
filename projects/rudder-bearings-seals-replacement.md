@@ -38,10 +38,11 @@ Rudder Seals:
 
 This is without removing the entire rudder and/or the skeg. However, this operation has to be done outside of the water because we have to support the rudder by placing something to hold the lower tip of the rudder.
 
-At this stage, we know the lower seal is compromise because we have seen some brownish water coming out of the drainage tube. This means that, at least, we have to change that seal. At this stage, we are better of replace the two seals, not just one. We do not know if the bearings, lower and/or upper, are affected. Everyone advices to replace them anyway given the hassle of the operation.
-In the groups.io/Hallberg-Rassy-Sailing forum some mentions that if the rudder is not stiff, the bearings are still in good shape. In my case, I have noticed the rudder is getting stiffer to turn within a period of 2-3 months of sailing almost uninterruptedly. So, I suspect the bearings are also somewhat affected.
+At this stage, we know the lower seal is compromise because we have seen some brownish water coming out of the drainage tube. This means that, at least, we have to change that seal. At this stage, we are better of replacing the two seals, not just one. We do not know if the bearings, lower and/or upper, are affected. Everyone advices to replace them anyway given the hassle of the operation.
+In the groups.io/Hallberg-Rassy-Sailing forum someone mentions that if the rudder is not stiff, the bearings are still in good shape. In my case, I have noticed the rudder is getting stiffer. So, I suspect the bearings are also somewhat affected.
 
 
+Procedure to replace the seals based on documents from Hallberg Rassy and groups.io/Hallberg-Rassy-Sailing forum:
 
 1. Remove the plastic lid on the top end of the rudder stock.
 ![Top end of rudderstock](../images/0.jpg)
