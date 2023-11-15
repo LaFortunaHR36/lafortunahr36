@@ -51,7 +51,8 @@ Under construction
 ## Maintenance jobs and repairs
 
 - [Service Bow-Thruster](jobs/service-bow-thruster.md)
-- [Replace broke bolt from quadrant](jobs/quadrant-auto-pilot.md)
+- [Replace broken bolt from quadrant](jobs/quadrant-auto-pilot.md)
+- [Replace anodes](job/replace-anodes.md)
 
 ## Projects
 
