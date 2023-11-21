@@ -19,7 +19,7 @@ Under construction
 | Anchor chain | Check chain, and clean w/fresh water |
 | MaxProp propeller | Clean, Grease & replace anodes |
 | Shaft | Clean and replace anodes |
-| [Running Rig](running-rigging.md) | 
+| [Running Rig](running-rigging.md) | Running rig dimensions guide |
 
 ### Interior
 
