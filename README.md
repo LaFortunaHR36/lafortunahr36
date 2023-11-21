@@ -7,19 +7,6 @@ Under construction
 
 ## Annual Maintenance
 
-### Routing checks
-
-| Item | Description |
-| --- | ----------- |
-| Lifejackets | |
-| EPIRB | EPIRB and batteries |
-| Flares | Replace if required |
-| First aid kit | Replace expired items |
-| Extinguisher | Take to service / Replace if required |
-| Life raft | Annual service  |
-| Grab Bag | Replace batteries and expired items |
-| VHF Radio | Replace batteries if required |
-
 ### External
 
 | Item | Description |
@@ -32,6 +19,7 @@ Under construction
 | Anchor chain | Check chain, and clean w/fresh water |
 | MaxProp propeller | Clean, Grease & replace anodes |
 | Shaft | Clean and replace anodes |
+| [Running Rig](running-rigging.md) | 
 
 ### Interior
 
