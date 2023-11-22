@@ -59,6 +59,13 @@ The credits for the steps enumerated below goes to Hallberg Rassy and to several
 
 ![Cuadrant key. Credit to S/V Endeavour](../images/cuadrant-key.jpg)
 
+If it gets too difficult to remove the key from the rudder post, some boat owners
+have removed it using a self designed pully puller.
+> Drilled 2 M8 holes in the key (first M6, but they were pulled out) and used M8x15cm. That worked. The key turned out to measure 16mm and the slot is 15.45mm. That explains the force used to get it in and the troubles to get is out.
+Onwards to the next step.
+
+![Custom made key puller](../images/remove-rudder-post-key.jpeg)
+
 > Maybe it is a good time to remove the cables, inspect and grease them.
 
 5. Unbolt and remove the autopilot-drive arm.
@@ -120,3 +127,17 @@ New bearing installed (check for alignment and play!), plug screw holes and top 
 From [Rusalka HR40](https://groups.io/g/Hallberg-Rassy-Sailing/message/12624)
 
 > I can add that the bronze skeg bearing has 2 large holes, one either side near the top. These are used, after it is fitted into place, to pour in resin to fill any voids between the bronze and the skeg. The "kit' is supplied with tubes that screw into those holes to enable the pouring. The voids may be created when fitting the new skeg bearing. This information is "theoretical" from me, it is what I was told by HR-Parts.
+
+From [Cayuga II - HR34](https://groups.io/g/Hallberg-Rassy-Sailing/message/12619)
+
+> The skeg bearing is the third (lowest) bearing on the rudder shaft ; its purpose is to take some of the efforts on the the 2 main self aligning bearing , particularly in rough seas .(typical of the "strong boat" philosophy of HR ) .
+It is made of bronze , in 2 parts and clamps around the stainless steel shaft .
+
+> Being in bronze , it does wear against the stainless steel and I have noticed on many HR on the hard that some play exists in this bearing ; on my HR 34 it happened after 8 years ; sometimes much earlier . This is normal and no cause for immediate concern but has to be addressed .
+
+>The replacement of the bronze bearing is fairly simple : the part is available from HR parts and machined exactly to the shaft diameter :
+- dismantle the old bearing : separate the 2 halves and unscrew the part attached to the keel ( often the bolts are a bit covered with putty which is easy to remove )
+- replace by the new bearing requires to be a bit cautious : as engineers know , a 3 bearings alignment is a little tricky to realize ; the procedure to follow is -- screw  in the bolts into the keel WITHOUT TIGHTENING them -- screw the other half tightly around the shaft -- and only then tighten the bolts into the keel . In doing so , you are sure not to damage the main bearings by a faulty alignment .
+Note : it can happen that initially the rudder feels a bit hard : no worry :  either it will wear quickly or you can untie a little the bolts joining the 2 halves .
+
+> In their recent  design , HR equips the bearing with 1 or 2 greasing nipples (in my case there was no nipple and I had to add one by drilling a hole into which the nipple can be screwed ) ; before going back into the water push as much grease as possible into the bearing ( overflowing ) . Note that the role of the grease is not lubrication ( bronze against stainless steel is self lubricating ) but to  avoid water ingress inside the bearing which accelerates the wear , particularly if water is loaded with silt or sand .
