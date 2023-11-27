@@ -11,9 +11,8 @@ The rudder in our HR 36 is suspended on three bearings from top to bottom:
   I guess is the result of salt water draining out the grease in the lower bearings
   solidifying over time.
 
-  **Question:** There is a screwed-in bolt in the thru-hull bearing housing (last photo above).
-  Is this the *leak indicator hole* thru which salt water flows out when the
-  seals have failed/worn out?
+  In the last photo above, one can see a screw in the lower bearing house. This is the wheeping hole which is closed with a screw because the first seal is now compromised and water comes. We should not have any screw in the wheeping hole unless we start to see
+  water coming out.
 
 
 - Skeg bearings (outside the boat)
@@ -54,6 +53,7 @@ The credits for the steps enumerated below goes to Hallberg Rassy and to several
 ![Credit to S/V Endeavour](../images/gantry.jpg)
 
 3. Also support the rudder from below. **Always keep one support at all times**. For instance, if you have access to a car jack or a small hydraulic jack the better.
+**The most important thing to do before you do anything else, is to secure the rudder from falling down**
 
 4. Unbolt and remove the steering cables, steering quadrant and quadrant key. You may need to grip the key firmly with locking pliers and hit the locking pliers with a hammer to get it loose.
 
@@ -90,13 +90,16 @@ If the second seal has failed and water has entered the lower bearing, the lower
 
 10. Undo the lifting gear or gantry. Slide the lock ring up on the shaft. Then lift the ball bearing. (On some boats this bearing is a Delrin plate (White plastic material). Underneath you will see the two seals.
 
-Pull out the old simmer seals. If difficult, screwing down a few screws into the old seals to help pull up, especially the lower one, can help.
+Pull out the old simmer seals. If difficult, screwing down a few screws into the old seals to help pull up, especially the lower one, can help. If you find it hard to remove the seals, try to use a [seal puller](https://youtu.be/TYkZlKYSz4Q) instead.
 
 11. Replace the seals with the new ones. (Note the direction on the seals). Be very careful when you are sliding the new seals on to the shaft. Grades on the shaft will (most likely where the tiller arms where fitted) damage the seals. Use a protective paper between the seal and shaft.
 
  New Rudder Seals can be installed in a few different ways. But always with great care. Slots in the Rudder Shaft for Steering Gear Key and Autopilot Key can have sharp edges and damage the new Rudder Seals in the process. Clean the Rudder Shaft. Check the Rudder Shaft for any sharp edges. Wrap a paper tight around the top of the Rudder Shaft. Pull both new (1041466) Rudder Seals over the paper, and then move the paper down on the Rudder Shaft with the new (1041466) Rudder Seals.
 
-Please Note : Both seals must be fitted in the same direction, flat side facing up, open side facing down. Make sure Rudder Seals are well greased when installed. Also grease both Rudder Upper Bearing and Rudder Lower Bearing 51215 well when re-installing. **Which grease type?**
+
+Please Note : Both seals must be fitted in the same direction, flat side facing up, open side facing down. Make sure Rudder Seals are well greased when installed. Also grease both Rudder Upper Bearing and Rudder Lower Bearing 51215 well when re-installing.
+
+Recommended grease by HR is [SuperLube](https://shop.hallberg-rassy.com/contents/en-us/p3413_SuperLube-Tube-85g.html).
 
 From [groups.io](https://groups.io/g/Hallberg-Rassy-Sailing/message/18437)
 
