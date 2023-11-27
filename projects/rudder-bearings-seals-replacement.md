@@ -38,8 +38,6 @@ Rudder Seals:
 To replace the lower and upper bearings and seals we do not need to remove the entire rudder and skeg. However, this operation has to be done outside of the water because we have to support the rudder by placing something to hold the lower tip of the rudder.
 
 At this stage, we know the lower seal(s) are compromised because we have seen some brownish water coming out of the wheeping hole. This means that, at least, we have to change that seal. At this stage, we are better of replacing the two seals, not just one. We do not know if the bearings, lower and/or upper, are affected. Everyone advices to replace them anyway given the hassle of the operation.
-In the groups.io/Hallberg-Rassy-Sailing forum someone mentions that if the rudder is not stiff, the bearings are still in good shape. In my case, I have noticed the rudder is getting stiffer. So, I suspect the bearings are also somewhat affected.
-
 
 The credits for the steps enumerated below goes to Hallberg Rassy and to several people in groups.io/Hallberg-Rassy-Sailing forum who have contributed their experiences in particular Dennis Patti from s/v Endeavour HR36:
 
