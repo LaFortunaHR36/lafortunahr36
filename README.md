@@ -41,8 +41,13 @@ Under construction
 - [Service Bow-Thruster](jobs/service-bow-thruster.md)
 - [Replace broken bolt from quadrant](jobs/quadrant-auto-pilot.md)
 - [Replace anodes](jobs/replace-anodes.md)
+- [Steering](jobs/steering.md)
 
 ## Projects
 
 - [Rudder seals and bearings replacement](projects/rudder-bearings-seals-replacement.md)
 - [Seacock replacement](projects/seacock-replacement.md)
+
+## Future projects
+
+- [Replace cutlass bearing](https://www.hallberg-rassy.com/fileadmin/data/yachts/hallberg-rassy_36/downloads/CutlassBearingRemoval.pdf)
