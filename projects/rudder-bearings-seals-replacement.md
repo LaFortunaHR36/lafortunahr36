@@ -97,7 +97,7 @@ Pull out the old simmer seals. If difficult, screwing down a few screws into the
 
 Please Note : Both seals must be fitted in the same direction, flat side facing up, open side facing down. Make sure Rudder Seals are well greased when installed. Also grease both Rudder Upper Bearing and Rudder Lower Bearing 51215 well when re-installing.
 
-Recommended grease by HR is [SuperLube](https://shop.hallberg-rassy.com/contents/en-us/p3413_SuperLube-Tube-85g.html).
+Recommended grease by HR is [SuperLube](https://shop.hallberg-rassy.com/contents/en-us/p3413_SuperLube-Tube-85g.html). The seals can be filled with grease when installed, and they will stay fresh longer and the stainless steel spring will last longer.
 
 From [groups.io](https://groups.io/g/Hallberg-Rassy-Sailing/message/18437)
 
