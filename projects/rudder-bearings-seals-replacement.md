@@ -88,7 +88,7 @@ If the second seal has failed and water has entered the lower bearing, the lower
 
 10. Undo the lifting gear or gantry. Slide the lock ring up on the shaft. Then lift the ball bearing. (On some boats this bearing is a Delrin plate (White plastic material). Underneath you will see the two seals.
 
-Pull out the old simmer seals. If difficult, screwing down a few screws into the old seals to help pull up, especially the lower one, can help. If you find it hard to remove the seals, try to use a [seal puller](https://youtu.be/TYkZlKYSz4Q) instead.
+Pull out the old simmer seals. If difficult, screwing down a few screws into the old seals to help pull up, especially the lower one, can help. If you find it hard to remove the seals, try to use a seal puller like the one shown on the [video](https://m.media-amazon.com/images/I/C1C3i5RY5ZS.mp4). 
 
 11. Replace the seals with the new ones. (Note the direction on the seals). Be very careful when you are sliding the new seals on to the shaft. Grades on the shaft will (most likely where the tiller arms where fitted) damage the seals. Use a protective paper between the seal and shaft.
 
