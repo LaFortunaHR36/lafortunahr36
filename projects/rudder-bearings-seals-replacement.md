@@ -53,9 +53,23 @@ The credits for the steps enumerated below goes to Hallberg Rassy and to several
 3. Also support the rudder from below. **Always keep one support at all times**. For instance, if you have access to a car jack or a small hydraulic jack the better.
 **The most important thing to do before you do anything else, is to secure the rudder from falling down**
 
-4. Unbolt and remove the steering cables, steering quadrant and quadrant key. You may need to grip the key firmly with locking pliers and hit the locking pliers with a hammer to get it loose.
+4. Ensure the rudder is in the middle. Take note of the height of the quadrant relative to the rudder post. This is important so that when we put everything back, the steering cables are aligned with the shaves' groove. Put a tape on the rudder position sensor's arm so that we ensure the quadrant is aligned when we put it back.
 
-![Cuadrant key. Credit to S/V Endeavour](../images/cuadrant-key.jpg)
+4. Remove bolt that secures the quadrant onto the rudder post and the steering cables from the quadrant.
+
+First, remove the cables by unscrewing the two bolts (red arrow). The inner bolt (green arrow) is there to ensure when we put it back, we have the same tension.
+Then, unscrew the bolts (blue arrow) and remove the blue screw from the quadrant.
+
+![Quadrant](../images/quadrant.jpg)
+
+![Quadrant diagram](../images/quadrant-diagram.jpg)
+
+
+5. Remove steering quadrant
+
+6. Remove quadrant key. You may need to grip the key firmly with locking pliers and hit the locking pliers with a hammer to get it loose.
+
+![Quadrant key. Credit to S/V Endeavour](../images/cuadrant-key.jpg)
 
 If it gets too difficult to remove the key from the rudder post, some boat owners
 have removed it using a self designed pully puller.
@@ -66,31 +80,31 @@ Onwards to the next step.
 
 > Maybe it is a good time to remove the cables, inspect and grease them.
 
-5. Unbolt and remove the autopilot-drive arm.
+7. Unbolt and remove the autopilot-drive arm.
 
-6. Mark the position and release the Upper Rudder Locking Ring, allowing both the Upper Rudder Locking Ring and Rudder Upper Bearing, to be lowered. Note that the bolts have hex heads — the nuts are a locking mechanism.
+8. Mark the position and release the Upper Rudder Locking Ring, allowing both the Upper Rudder Locking Ring and Rudder Upper Bearing, to be lowered. Note that the bolts have hex heads — the nuts are a locking mechanism.
 
   > How to Mark the position? Maybe by placing a tape in the rudder stock right below the Locking ring
 
-7. Mark the radial position, unbolt and remove the Rudder Bearing Housing Upper. Remove both Rudder Upper Bearing and Rudder Locking Ring Bronze.
+9. Mark the radial position, unbolt and remove the Rudder Bearing Housing Upper. Remove both Rudder Upper Bearing and Rudder Locking Ring Bronze.
 
 ![Credit to S/V Endeavour](../images/1-1.jpg)
 ![Credit to S/V Endeavour](../images/2-1.jpg)
 
-8. Mark the position of the lower locking ring and release it. This ring holds
+10. Mark the position of the lower locking ring and release it. This ring holds
 the rudder in the right position.
 
 ![Credit to S/V Endeavour](../images/2.jpg)
 
-9. Gently lower the rudder (maximum 15mm) using the turnbuckle, resting it on Rudder Skeg Bearing and also support the rudder against the ground (as already mention in above position No. 3).
+11. Gently lower the rudder (maximum 15mm) using the turnbuckle, resting it on Rudder Skeg Bearing and also support the rudder against the ground (as already mention in above position No. 3).
 
 If the second seal has failed and water has entered the lower bearing, the lower bearing will corrode, binding to the lower locking ring and the rudder stock. Applying lubrication to the shaft or heating the ring with a propane torch may be necessary to break it free.
 
-10. Undo the lifting gear or gantry. Slide the lock ring up on the shaft. Then lift the ball bearing. (On some boats this bearing is a Delrin plate (White plastic material). Underneath you will see the two seals.
+12. Undo the lifting gear or gantry. Slide the lock ring up on the shaft. Then lift the ball bearing. (On some boats this bearing is a Delrin plate (White plastic material). Underneath you will see the two seals.
 
-Pull out the old simmer seals. If difficult, screwing down a few screws into the old seals to help pull up, especially the lower one, can help. If you find it hard to remove the seals, try to use a seal puller like the one shown on the [video](https://m.media-amazon.com/images/I/C1C3i5RY5ZS.mp4). 
+Pull out the old simmer seals. If difficult, screwing down a few screws into the old seals to help pull up, especially the lower one, can help. If you find it hard to remove the seals, try to use a seal puller like the one shown on the [video](https://m.media-amazon.com/images/I/C1C3i5RY5ZS.mp4).
 
-11. Replace the seals with the new ones. (Note the direction on the seals). Be very careful when you are sliding the new seals on to the shaft. Grades on the shaft will (most likely where the tiller arms where fitted) damage the seals. Use a protective paper between the seal and shaft.
+13. Replace the seals with the new ones. (Note the direction on the seals). Be very careful when you are sliding the new seals on to the shaft. Grades on the shaft will (most likely where the tiller arms where fitted) damage the seals. Use a protective paper between the seal and shaft.
 
  New Rudder Seals can be installed in a few different ways. But always with great care. Slots in the Rudder Shaft for Steering Gear Key and Autopilot Key can have sharp edges and damage the new Rudder Seals in the process. Clean the Rudder Shaft. Check the Rudder Shaft for any sharp edges. Wrap a paper tight around the top of the Rudder Shaft. Pull both new (1041466) Rudder Seals over the paper, and then move the paper down on the Rudder Shaft with the new (1041466) Rudder Seals.
 
@@ -104,9 +118,9 @@ From [groups.io](https://groups.io/g/Hallberg-Rassy-Sailing/message/18437)
 > Removing and replacing the lip seals was the trickiest part and I did use screws to remove and replace using the paper method with grease making sure the seals were not scored / damaged in anyway. This is very important as if not done correctly you will have a small leak.
 
 
-12. Make sure the Drain Hole (Leakage indicator hole) is clean and that one Seal ring is positioned below the drain hole and one Seal Ring is positioned above the drain hole.
+14. Make sure the Drain Hole (Leakage indicator hole) is clean and that one Seal ring is positioned below the drain hole and one Seal Ring is positioned above the drain hole.
 
-13. Then reassemble the rudder in the opposite order. Do not forget to lift up the rudder before you lock it in position with the brass ring.
+15. Then reassemble the rudder in the opposite order. Do not forget to lift up the rudder before you lock it in position with the brass ring.
 
 
 # Replace skeg bearing
