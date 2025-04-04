@@ -62,7 +62,7 @@ Then, unscrew the bolts (blue arrow) and remove the blue screw from the quadrant
 
 <p float="left">
  <img src="../images/quadrant.jpg" width="45%" />
- <img src="../images/quadrant-diagram.jpg" width="45%" /> 
+ <img src="../images/quadrant-diagram.jpg" width="45%" />
 </p>
 
 5. Remove steering quadrant
@@ -105,6 +105,8 @@ If the second seal has failed and water has entered the lower bearing, the lower
 Pull out the old simmer seals. If difficult, screwing down a few screws into the old seals to help pull up, especially the lower one, can help. If you find it hard to remove the seals, try to use a seal puller like the one shown on the [video](https://m.media-amazon.com/images/I/C1C3i5RY5ZS.mp4).
 
 13. Replace the seals with the new ones. (Note the direction on the seals). Be very careful when you are sliding the new seals on to the shaft. Grades on the shaft will (most likely where the tiller arms where fitted) damage the seals. Use a protective paper between the seal and shaft.
+
+![Rudder seals](../images/SimmerBearingRudder.jpeg)
 
  New Rudder Seals can be installed in a few different ways. But always with great care. Slots in the Rudder Shaft for Steering Gear Key and Autopilot Key can have sharp edges and damage the new Rudder Seals in the process. Clean the Rudder Shaft. Check the Rudder Shaft for any sharp edges. Wrap a paper tight around the top of the Rudder Shaft. Pull both new (1041466) Rudder Seals over the paper, and then move the paper down on the Rudder Shaft with the new (1041466) Rudder Seals.
 
