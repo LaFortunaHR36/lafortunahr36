@@ -60,10 +60,10 @@ The credits for the steps enumerated below goes to Hallberg Rassy and to several
 First, remove the cables by unscrewing the two bolts (red arrow). The inner bolt (green arrow) is there to ensure when we put it back, we have the same tension.
 Then, unscrew the bolts (blue arrow) and remove the blue screw from the quadrant.
 
-![Quadrant](../images/quadrant.jpg)
-
-![Quadrant diagram](../images/quadrant-diagram.jpg)
-
+<p float="left">
+ <img src="../images/quadrant.jpg" width="50%" />
+ <img src="../images/quadrant-diagram.jpg" width="50%" /> 
+</p>
 
 5. Remove steering quadrant
 
