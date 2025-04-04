@@ -61,8 +61,8 @@ First, remove the cables by unscrewing the two bolts (red arrow). The inner bolt
 Then, unscrew the bolts (blue arrow) and remove the blue screw from the quadrant.
 
 <p float="left">
- <img src="../images/quadrant.jpg" width="50%" />
- <img src="../images/quadrant-diagram.jpg" width="50%" /> 
+ <img src="../images/quadrant.jpg" width="45%" />
+ <img src="../images/quadrant-diagram.jpg" width="45%" /> 
 </p>
 
 5. Remove steering quadrant
