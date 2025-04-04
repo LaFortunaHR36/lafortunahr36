@@ -53,7 +53,7 @@ The credits for the steps enumerated below goes to Hallberg Rassy and to several
 3. Also support the rudder from below. **Always keep one support at all times**. For instance, if you have access to a car jack or a small hydraulic jack the better.
 **The most important thing to do before you do anything else, is to secure the rudder from falling down**
 
-4. Ensure the rudder is in the middle. Take note of the height of the quadrant relative to the rudder post. This is important so that when we put everything back, the steering cables are aligned with the shaves' groove. Put a tape on the rudder position sensor's arm so that we ensure the quadrant is aligned when we put it back.
+4. Ensure the rudder is in the middle. Take note of the height of the quadrant relative to the rudder post. This is important so that when we put everything back, the steering cables are aligned with the sheaves' groove. Put a tape on the rudder position sensor's arm so that we ensure the quadrant is aligned when we put it back.
 
 4. Remove bolt that secures the quadrant onto the rudder post and the steering cables from the quadrant.
 
@@ -65,7 +65,10 @@ Then, unscrew the bolts (blue arrow) and remove the blue screw from the quadrant
  <img src="../images/quadrant-diagram.jpg" width="45%" />
 </p>
 
-5. Remove steering quadrant
+5. Remove steering quadrant but first you need to remove a bolt that comes down through the main beam and has a nut underneath, just take it out in order to remove quadrant and get it out of the way.
+
+![Quadrant bolt thru beam. Credit to Steve Roche s/v  Naivasha](../images/quadrant-bolt-thru-beam.jpg)
+
 
 6. Remove quadrant key. You may need to grip the key firmly with locking pliers and hit the locking pliers with a hammer to get it loose.
 
